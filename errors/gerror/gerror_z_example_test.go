@@ -3,8 +3,9 @@ package gerror_test
 import (
 	"errors"
 	"fmt"
-	"gameutil/errors/gcode"
-	"gameutil/errors/gerror"
+
+	"github.com/dclib/gameutil/errors/gcode"
+	"github.com/dclib/gameutil/errors/gerror"
 )
 
 func ExampleNewCode() {

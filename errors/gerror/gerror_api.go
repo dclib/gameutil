@@ -2,7 +2,8 @@ package gerror
 
 import (
 	"fmt"
-	"gameutil/errors/gcode"
+
+	"github.com/dclib/gameutil/errors/gcode"
 )
 
 func New(text string) error {

@@ -1,6 +1,6 @@
 package gerror
 
-import "gameutil/errors/gcode"
+import "github.com/dclib/gameutil/errors/gcode"
 
 // ICode is the interface for Code feature.
 type ICode interface {

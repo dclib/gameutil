@@ -2,9 +2,10 @@ package gerror
 
 import (
 	"errors"
-	"gameutil/errors/gcode"
 	"runtime"
 	"strings"
+
+	"github.com/dclib/gameutil/errors/gcode"
 )
 
 const (

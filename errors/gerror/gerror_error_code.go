@@ -1,6 +1,6 @@
 package gerror
 
-import "gameutil/errors/gcode"
+import "github.com/dclib/gameutil/errors/gcode"
 
 // Code returns the error code.
 // It returns CodeNil if it has no error code.
